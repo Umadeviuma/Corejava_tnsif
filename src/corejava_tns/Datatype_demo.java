@@ -12,7 +12,6 @@ public class Datatype_demo {
 			char rating='A';
 			float deliveryDistance=5.3f;
 			long deliveryBoyPhone=9832234567l;
-			byte deliverytime=45;
 			short restaurantid=12;
 			
 			//non primitive datatype
